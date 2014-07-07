@@ -75,7 +75,7 @@ public:
         versionLabel = new QLabel(AboutDialog);
         versionLabel->setObjectName(QStringLiteral("versionLabel"));
         versionLabel->setCursor(QCursor(Qt::IBeamCursor));
-        versionLabel->setText(QStringLiteral("1.0.3.0"));
+        versionLabel->setText(QStringLiteral("1.0.5.0"));
         versionLabel->setTextInteractionFlags(Qt::LinksAccessibleByMouse|Qt::TextSelectableByKeyboard|Qt::TextSelectableByMouse);
 
         horizontalLayout->addWidget(versionLabel);

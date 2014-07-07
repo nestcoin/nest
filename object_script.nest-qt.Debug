@@ -79,6 +79,7 @@ INPUT(
 ./build/SerialNumberSignatureOfKnowledge.o
 ./build/SpendMetaData.o
 ./build/ZeroTest.o
+./build/qrcodedialog.o
 ./build/nest-qt_plugin_import.o
 ./build/qrc_bitcoin.o
 ./build/moc_bitcoingui.o
@@ -111,4 +112,5 @@ INPUT(
 ./build/moc_askpassphrasedialog.o
 ./build/moc_notificator.o
 ./build/moc_rpcconsole.o
+./build/moc_qrcodedialog.o
 );
